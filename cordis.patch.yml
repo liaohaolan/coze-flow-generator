@@ -1,0 +1,3 @@
+- insert:
+    - id: coze-flow-generator
+      name: '@local/coze-flow-generator'
